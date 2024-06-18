@@ -2,7 +2,8 @@
 
 # Rust Calculator
 
-
+![GitHub](https://img.shields.io/github/forks/anuja-rahul/rust-calculator?style&logo=github)
+&nbsp;
 ![GitHub](https://img.shields.io/github/license/anuja-rahul/rust-calculator?style&logo=github)
 &nbsp;
 ![GitHub](https://img.shields.io/github/stars/anuja-rahul/rust-calculator?style&logo=github)
